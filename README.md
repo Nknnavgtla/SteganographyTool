@@ -1,16 +1,16 @@
 # SteganographyTool
-
+```
 • Steganography = hiding secret data inside media (images, audio, video)
 • This project hides text/files inside images using Least Significant Bit (LSB) technique
 • GUI developed with Tkinter
-• Optional AES encryption for extra security
+• Optional AES encryption for extra security</li>
 
 #Tools & Technologies
 • Python 3
 • PIL (Pillow) – image processing
 • Tkinter – GUI interface
 • Cryptography – AES encryption
-• tkinterdnd2 – drag and drop support
+• tkinterdnd2 – drag and drop support``
 
 Workflow
 1. User uploads image
